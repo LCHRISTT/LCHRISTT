@@ -5,9 +5,6 @@
    <a href="https://github.com/LCHRISTT">
    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=LCHRISTT&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true"/>
    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LCHRISTT&layout=compact&langs_count=6&theme=midnight-purple"/>
-    
-   ![BUU00](https://github.com/user-attachments/assets/99f0b512-aa4a-435c-bbf3-feab2e6d2861)
-
 </div>
     
 <div style="display: inline_block"><br>
