@@ -11,11 +11,12 @@
   <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img aling="left" alt="BUU"height="150" width="150" src="https://media.discordapp.net/attachments/1296187690047242294/1296201097009958923/BUU_00.gif?ex=67116cd7&is=67101b57&hm=82123bf93cf043425ac184438777959426c9404660562c02c5550e33bbcae2ea&=">
- 
 </div>
 
-<br/>
+<div>
+ <img aling="right" alt="BUU"height="150" width="150" src="https://media.discordapp.net/attachments/1296187690047242294/1296201097009958923/BUU_00.gif?ex=67116cd7&is=67101b57&hm=82123bf93cf043425ac184438777959426c9404660562c02c5550e33bbcae2ea&=">
+</div>
+
 ## Redes abaixo!
  
 <div> 
